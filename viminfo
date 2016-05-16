@@ -1,0 +1,239 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+:q!
+:q
+:echo $VIM
+:echo $VI<
+:echo $vim
+:set number
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"0	LINE	0
+	binmode STDIN, ':encoding(cp932)';
+"1	LINE	0
+	set listchars=tab:>>-,trail:-,eol:,extends:>>,precedes:<<,nbsp:%
+"2	LINE	0
+	
+"3	LINE	0
+	
+"4	LINE	0
+	{}
+"5	LINE	0
+	(((())))
+"6	LINE	0
+	set listchars=tab:>>-,trail:-,eol:,extends:>>,precedes:<<,nbsp:%
+"7	LINE	0
+	
+""-	CHAR	0
+	'
+
+# ファイルマーク:
+'0  5  4  ~/java/test.java
+'1  1  35  /etc/profile.d/java.sh
+'2  3  10  ~/sh/test
+'3  7  0  ~/.vimrc
+'4  1  1  ~/perl/test/hello.pl
+'5  2  0  ~/perl/test/file_rw.pl
+'6  10  2  ~/perl/README.md
+'7  14  0  ~/.vimrc
+'8  20  11  ~/.vimrc
+'9  4  0  ~/.vimrc
+
+# ジャンプリスト (新しいものが先):
+-'  5  4  ~/java/test.java
+-'  1  0  ~/java/test.java
+-'  1  35  /etc/profile.d/java.sh
+-'  3  10  ~/sh/test
+-'  1  0  ~/sh/test
+-'  7  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  1  1  ~/perl/test/hello.pl
+-'  2  0  ~/perl/test/file_rw.pl
+-'  1  0  ~/perl/test/file_rw.pl
+-'  10  2  ~/perl/README.md
+-'  1  0  ~/perl/README.md
+-'  14  0  ~/.vimrc
+-'  20  11  ~/.vimrc
+-'  4  0  ~/.vimrc
+-'  6  0  ~/.vimrc
+-'  5  0  ~/.vimrc
+-'  3  11  ~/.vimrc
+-'  1  0  ~/test
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  1  0  ~/test
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+-'  1  0  /usr/share/vim/vimrc
+-'  12  0  /usr/share/vim/vimrc
+-'  39  0  /usr/share/vim/vimrc
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/java/test.java
+	"	5	4
+	^	5	4
+	.	5	4
+	+	1	19
+	+	2	43
+	+	3	36
+	+	5	4
+
+> /etc/profile.d/java.sh
+	"	1	35
+	^	1	36
+	.	1	35
+	+	1	35
+
+> ~/sh/test
+	"	3	10
+	^	3	11
+	.	3	10
+	+	3	10
+
+> ~/.vimrc
+	"	7	0
+	^	20	12
+	.	14	0
+	+	6	9
+	+	5	0
+	+	3	0
+	+	5	0
+	+	3	20
+	+	2	14
+	+	1	13
+	+	2	18
+	+	5	0
+	+	20	11
+	+	14	0
+
+> ~/perl/test/file_rw.pl
+	"	12	14
+	^	12	15
+	.	13	0
+	+	1	17
+	+	2	0
+	+	1	9
+	+	7	0
+	+	7	0
+	+	8	0
+	+	7	12
+	+	8	13
+	+	7	10
+	+	10	56
+	+	12	15
+	+	13	0
+
+> ~/perl/test/hello.pl
+	"	1	1
+	^	1	15
+	.	1	14
+	+	1	14
+
+> ~/perl/README.md
+	"	10	2
+	^	10	3
+	.	10	2
+	+	11	0
+	+	4	26
+	+	6	19
+	+	10	2
+
+> ~/test
+	"	1	0
+	^	1	4
+	.	1	3
+	+	1	3
+
+> /usr/share/vim/vimrc
+	"	39	0
+	.	39	0
+	+	39	0
